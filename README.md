@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aky2004
-- 👀 I’m interested in CyberSecurity
+- 👀 I’m interested to become FullStack Developer!
 - 🌱 I’m currently learning Python, JavaScript.
 - 📫 How to reach me via LinkedIn (www.linkedin.com/in/aky04)
 
