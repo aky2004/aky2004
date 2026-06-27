@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/aky2004">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=80&lines=%24+whoami+→+Full-Stack+Dev+%7C+MERN+%7C+TypeScript;%24+focus+→+Scalable+APIs+%7C+AI+Integration+%7C+DevOps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=800&color=64FFDA&center=true&vCenter=true&repeat=true&width=600&height=30&lines=Full-Stack+Developer+%7C+MERN+%7C+TypeScript;Backend+Engineer+%7C+Redis+%7C+Docker+%7C+AWS;Building+Scalable+APIs+%26+AI-Integrated+Apps;Open+to+SDE+%2F+Full-Stack+%2F+Backend+Roles" alt="Typing SVG" />
   </a>
 </p>
 
