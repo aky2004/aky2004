@@ -150,9 +150,9 @@ Database Design         ━━━━━━━━━━━━━━━━━━�
   <img src="https://github-readme-streak-stats.herokuapp.com?user=aky2004&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&border=30363D" width="49%" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aky2004&layout=compact&bg_color=0D1117&title_color=58a6ff&text_color=8B949E&border_color=30363D&hide_border=false&langs_count=8" width="38%" />
-</p>
+</p> -->
 
 ---
 
