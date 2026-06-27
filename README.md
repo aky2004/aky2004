@@ -46,63 +46,39 @@ const aman = {
 
 ## `> tech-stack`
 
-<table align="center">
-  <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,php&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,redux,tailwind&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud & DevOps</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=aws,docker,vercel,linux&theme=dark" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <sub><b>Languages</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,html,css,php&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>Frontend & Backend</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,nodejs,express&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>Databases & Cloud</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,aws,docker&theme=dark" />
+</p>
+
+<p align="center">
+  <sub><b>Tools</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&theme=dark" />
+</p>
 
 ---
 
 ## `> expertise`
 
-<div align="center">
+```
+Full-Stack Development  ━━━━━━━━━━━━━━━━━━━░  MERN · TypeScript · REST APIs · Redux
+Backend Engineering     ━━━━━━━━━━━━━━━━━━━░  Node.js · Express · Redis · BullMQ · Socket.io
+Auth & Security         ━━━━━━━━━━━━━━━━━━░░  OAuth 2.0 · JWT · RBAC · CORS · Helmet.js
+AI/ML Integration       ━━━━━━━━━━━━━━━━░░░░  Gemini API · Hugging Face · NVIDIA NIM
+Cloud & DevOps          ━━━━━━━━━━━━━━━━░░░░  AWS · Docker · CI/CD · GitHub Actions
+Database Design         ━━━━━━━━━━━━━━━━━━░░  MongoDB · PostgreSQL · MySQL · Redis
+```
 
-| &nbsp; | Domain | Proficiency | Technologies |
-|:---:|:---|:---|:---|
-| 🖥️ | **Full-Stack Development** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-64FFDA?style=flat-square&labelColor=0D1117) | `MERN` `TypeScript` `REST APIs` `Redux` |
-| ⚙️ | **Backend Engineering** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━░-95%25-64FFDA?style=flat-square&labelColor=0D1117) | `Node.js` `Express` `Redis` `BullMQ` `Socket.io` |
-| 🔐 | **Auth & Security** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━░░-90%25-64FFDA?style=flat-square&labelColor=0D1117) | `OAuth 2.0` `JWT` `RBAC` `CORS` `Helmet.js` |
-| 🤖 | **AI/ML Integration** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-64FFDA?style=flat-square&labelColor=0D1117) | `Gemini API` `Hugging Face` `NVIDIA NIM` |
-| ☁️ | **Cloud & DevOps** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━░░░░-80%25-64FFDA?style=flat-square&labelColor=0D1117) | `AWS` `Docker` `CI/CD` `GitHub Actions` |
-| 🗄️ | **Database Design** | ![](https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━░░-90%25-64FFDA?style=flat-square&labelColor=0D1117) | `MongoDB` `PostgreSQL` `MySQL` `Redis` |
-
-</div>
-
----
 
 ## `> projects`
 
