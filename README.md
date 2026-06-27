@@ -121,28 +121,6 @@ Database Design         ━━━━━━━━━━━━━━━━━━�
 
 ---
 
-## `> certifications`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-0D1117?style=flat-square&logo=amazonaws&logoColor=58a6ff&labelColor=161B22&color=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/Oracle-OCI_DevOps_Professional-0D1117?style=flat-square&logo=oracle&logoColor=58a6ff&labelColor=161B22&color=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/Udemy-Master_Generative_AI-0D1117?style=flat-square&logo=udemy&logoColor=58a6ff&labelColor=161B22&color=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/CipherSchools-MERN_Full--Stack-0D1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff&labelColor=161B22&color=0D1117" />&nbsp;
-  <img src="https://img.shields.io/badge/Coursera-Network_Communication-0D1117?style=flat-square&logo=coursera&logoColor=58a6ff&labelColor=161B22&color=0D1117" />
-</p>
-
----
-
-## `> education`
-
-```
-🎓  B.Tech — Computer Science & Engineering
-    Lovely Professional University, Phagwara, Punjab
-    CGPA: 8.85  |  Aug 2023 — Present
-```
-
----
-
 ## `> stats`
 
 <p align="center">
